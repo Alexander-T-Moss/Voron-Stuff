@@ -1,6 +1,6 @@
 # What The Macro
 
-In this section of my Voron Stuff, you can find all the macros I have on my printer. I've configured them to be "*parametric*" so they should **work regardless of your printer's dimensions**.
+In this section of my Voron Stuff, you can find all the macros I have on my printer. I've configured them to be "*parametric*" so they *should* **work regardless of your printer's dimensions**.
 
 ## How To Setup The Macros
 
