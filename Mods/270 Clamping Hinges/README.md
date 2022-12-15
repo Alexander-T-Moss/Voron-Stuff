@@ -2,7 +2,7 @@
 
 # 270 Degree Clamping Hinges #
 
-![270 Clamping Hinge Animation](Alexander-T-Moss/Voron-Stuff/blob/main/Mods/%23%20270%20Clamping%20Hinges/Images/270%20Clamping%20Hinge%20Animation.gif)
+![270 Clamping Hinge Animation](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Mods/270%20Clamping%20Hinges/Images/270%20Clamping%20Hinge%20Animation.gif)
 
  This design is based on [_chrisgonzales_](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge) already incredible 270 degree hinges. The main goal of this remix was to have the front panels mount in a way that **didn't use any VHB tape or holes that needed to be drilled into the acrylic**.
 
