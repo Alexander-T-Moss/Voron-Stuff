@@ -17,6 +17,6 @@ It's important to know about data types so when you make a variable, you don't s
 
 ## How Do I Make Variables In SuperSlicer?
 
-It's super easy, no really it is! Under each section in SuperSlicer (`Print Settings` /`Filament Settings`/`Printer Settings`) you will find a `Notes` section. In there you'll find a text field called `Custom Variables`. Here is where you will make your variables (see photo below if needed)
+It's super easy, no really it is! Under each section in SuperSlicer (`Print Settings`/`Filament Settings`/`Printer Settings`) you will find a `Notes` section. In there you'll find a text field called `Custom Variables`. Here is where you will make your variables (see photo below if needed)
 
-![Screenshot 2022-12-17 at 16.57.32](Guides/More Slicer Control/Images/Screenshot 2022-12-17 at 16.57.41.png)
+![Screenshot 2022-12-17 at 16.57.32](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/Images/Screenshot%202022-12-17%20at%2016.57.41.png)
