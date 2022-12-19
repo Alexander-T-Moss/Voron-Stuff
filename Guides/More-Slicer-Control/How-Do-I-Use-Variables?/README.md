@@ -1,3 +1,5 @@
+------
+
 # How Do I Use Variables?
 
 You can replace where you'd normally put values into something like a command with a variable, that way, when you change the variable, everywhere that variable is will be updated at the same time allowing us to do some pretty cool things! I'll use the example of setting pressure advance values for different extrusion types and filaments to explain this better!
@@ -25,4 +27,6 @@ And that's basically it, now you know all the basics for how to use variables in
 ------
 
 - Next Section
+- [Previous Section](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/What-Are-Variables%3F)
 - More Slicer Control Guide
+

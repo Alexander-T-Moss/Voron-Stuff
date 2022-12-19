@@ -1,4 +1,6 @@
-## What Are Variables?
+------
+
+# What Are Variables?
 
 A variable is a piece of data that can have a value assigned to it. There are different types of data which a variable can be, so bellow you'll find all the relavent types you may need to use
 
