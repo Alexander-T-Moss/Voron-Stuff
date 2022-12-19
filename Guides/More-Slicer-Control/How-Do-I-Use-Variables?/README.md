@@ -1,4 +1,4 @@
-Need More Help? Ping me on discord @Alexander Þór 🇬🇧🇮🇸#8355
+**Need More Help? Ping me on discord @Alexander Þór 🇬🇧🇮🇸#8355**
 
 ------
 
