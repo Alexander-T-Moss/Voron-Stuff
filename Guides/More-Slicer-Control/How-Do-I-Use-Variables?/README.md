@@ -1,3 +1,5 @@
+Need More Help? Ping me on discord @Alexander Þór 🇬🇧🇮🇸#8355
+
 ------
 
 # How Do I Use Variables?
