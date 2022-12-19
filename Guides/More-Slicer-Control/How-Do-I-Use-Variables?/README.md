@@ -16,7 +16,7 @@ You can name these variables anything you like but it's best practice to name it
 
 Now that we've defined our variables, we can use them in the `Between extrusion role change G-code` section in SuperSlicer.
 
-![ScreenShot]()
+![ScreenShot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F/Images/Screenshot%202022-12-17%20at%2016.57.32.png)
 
 Looking at the `SET_PRESSURE_ADVANCE ADVANCE={Perimeter_PA}`lines in the screenshot above, there are a few key points we can notice. We have used our `Perimeter_PA` variable as the value we are passing through to klipper but more importantly it's inside curly brackets. This is so SuperSlicer know's we want to put the variable `Perimeter_PA` their and not the string "Perimeter_PA"
 
