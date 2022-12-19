@@ -12,7 +12,7 @@ In this guide you'll learn the basics of making variables in superslicer along w
 
 2. [How Do I Use Variables?](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F)
 
-3. [Per-Extrusion Type Settings](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F)
+3. [Per-Extrusion Type Settings](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/Per-Extrusion-Type-Settings)
 
 4. [Examples](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F)
 
