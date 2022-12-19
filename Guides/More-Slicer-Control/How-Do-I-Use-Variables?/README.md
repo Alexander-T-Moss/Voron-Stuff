@@ -12,13 +12,13 @@ First of all, you need to make the variables to store your pressure advance valu
 
 You can name these variables anything you like but it's best practice to name it related to what data is being stored and the name **cannot contain spaces**. When it comes to assigning a value to the variable, you use the = operator and providing the value you put after the = sign contains a decimal point, SuperSlicer will automatically interpret the variable as a float (*decimal number*).
 
-![Screenshot]()
+![Screenshot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F/Images/Screenshot%202022-12-17%20at%2016.57.41.png)
 
 Now that we've defined our variables, we can use them in the `Between extrusion role change G-code` section in SuperSlicer.
 
 ![ScreenShot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/How-Do-I-Use-Variables%3F/Images/Screenshot%202022-12-17%20at%2016.57.32.png)
 
-Looking at the `SET_PRESSURE_ADVANCE ADVANCE={Perimeter_PA}`lines in the screenshot above, there are a few key points we can notice. We have used our `Perimeter_PA` variable as the value we are passing through to klipper but more importantly it's inside curly brackets. This is so SuperSlicer know's we want to put the variable `Perimeter_PA` their and not the string "Perimeter_PA"
+Looking at the `SET_PRESSURE_ADVANCE ADVANCE={Perimeter_PA}` lines in the screenshot above, there are a few key points we can notice. We have used our `Perimeter_PA` variable as the value we are passing through to klipper but more importantly it's inside curly brackets. This is so SuperSlicer know's we want to put the variable `Perimeter_PA` their and not the string "Perimeter_PA"
 
 And that's basically it, now you know all the basics for how to use variables in SuperSlicer!
 
