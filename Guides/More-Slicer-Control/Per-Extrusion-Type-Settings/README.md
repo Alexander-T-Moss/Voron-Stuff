@@ -8,7 +8,7 @@ This is probably one of the **most powerful** things you can setup in SuperSlice
 
 We utilises SuperSlicers `Between extrusion role change G-code` section under `Custom G-Code` in `Printer Settings` to enable this extra level of settings. The way this section works is pretty simple, when superslicer is slicing and their is a change in the `extrusion role` it will add some G-code we have defined into the file at this point, so we can use some simple *if statments* to make it add G-code only when the next `extrusion role` is what we want to modify. 
 
-![Screenshot]()
+![Screenshot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/Per-Extrusion-Type-Settings/Images/Screenshot%202022-12-17%20at%2016.57.32.png)
 
 ## Setting It Up
 
