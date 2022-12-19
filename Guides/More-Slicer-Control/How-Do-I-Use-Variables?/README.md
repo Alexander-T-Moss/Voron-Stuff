@@ -1,4 +1,4 @@
-## How Do I Use Variables?
+# How Do I Use Variables?
 
 You can replace where you'd normally put values into something like a command with a variable, that way, when you change the variable, everywhere that variable is will be updated at the same time allowing us to do some pretty cool things! I'll use the example of setting pressure advance values for different extrusion types and filaments to explain this better!
 
