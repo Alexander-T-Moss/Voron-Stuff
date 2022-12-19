@@ -22,3 +22,7 @@ Looking at the `SET_PRESSURE_ADVANCE ADVANCE={Perimeter_PA}` lines in the screen
 
 And that's basically it, now you know all the basics for how to use variables in SuperSlicer!
 
+------
+
+- Next Section
+- More Slicer Control Guide
