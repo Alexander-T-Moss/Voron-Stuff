@@ -10,7 +10,7 @@ This customization is based on the [per-extrusion type settings](https://github.
 
 Firstly, you will need to define your different pressure advance values in your filament profile of choice, to do this we will use [variables](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/What-Are-Variables%3F).
 
-![Screenshot]()
+![Screenshot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/Examples/Pressure-Advance-Per-Extrusion-Type/Images/Screenshot%202022-12-20%20at%2014.44.52.png)
 
 In the example above, I have defined 2 pressure advance values with this code:
 
@@ -24,7 +24,7 @@ You can define as many variables as you'd like with any name but I find myself o
 
 Now you have defined your pressure advance values, we need to configure SuperSlicer to inject them at the correct points in the G-code file, to do this we'll use the `Between extrusion role change G-code` section in our `Printer Settings`. More info on this can be found [here](https://github.com/Alexander-T-Moss/Voron-Stuff/tree/main/Guides/More-Slicer-Control/Per-Extrusion-Type-Settings).
 
-![Screenshot]()
+![Screenshot](https://github.com/Alexander-T-Moss/Voron-Stuff/blob/main/Guides/More-Slicer-Control/Examples/Pressure-Advance-Per-Extrusion-Type/Images/Screenshot%202022-12-20%20at%2014.49.57.png)
 
 If you are using the variables above and just have different values, then you can copy and paste this code into the `Between extrusion role change G-code` section, if you are using your own variables, make sure to update the code bellow to call them for the right extrusion type!
 
